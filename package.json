@@ -1,0 +1,15 @@
+{
+  "name": "@freela/cli",
+  "version": "1.0.0",
+  "description": "Content generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "freelancer",
+    "generator"
+  ],
+  "author": "Jhones Bazilio dos Santos",
+  "license": "ISC"
+}
