@@ -11,5 +11,13 @@
     "generator"
   ],
   "author": "Jhones Bazilio dos Santos",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bazsant/freela-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/bazsant/freela-cli/issues"
+  },
+  "homepage": "https://github.com/bazsant/freela-cli#readme"
 }
